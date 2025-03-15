@@ -4,7 +4,8 @@ import { motion } from "framer-motion"
 import { ArrowRight } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import Link from "next/link"
-import Image from "next/image"
+
+
 
 export default function AboutSection() {
   return (
@@ -23,13 +24,7 @@ export default function AboutSection() {
 
             <div className="relative bg-white rounded-2xl shadow-sm border border-muted overflow-hidden p-1">
               <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-accent/80 to-primary/80"></div>
-              <Image
-                src="/placeholder.svg?height=500&width=600"
-                width={600}
-                height={500}
-                alt="SegMate Dashboard"
-                className="rounded-xl"
-              />
+              
             </div>
           </motion.div>
 
