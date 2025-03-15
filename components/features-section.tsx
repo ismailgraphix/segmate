@@ -88,7 +88,7 @@ export default function FeaturesSection() {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="max-w-[800px] text-muted-foreground text-lg"
           >
-            Discover how SegMate's comprehensive feature set can transform your business operations and drive
+            Discover how SegMate&apos;s comprehensive feature set can transform your business operations and drive
             sustainable growth.
           </motion.p>
         </div>

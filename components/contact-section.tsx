@@ -70,7 +70,7 @@ export default function ContactSection() {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="max-w-[600px] text-muted-foreground text-lg"
           >
-            Have questions about SegMate? We're here to help. Reach out to our team through any of the channels below.
+            Have questions about SegMate? We &apos;re here to help. Reach out to our team through any of the channels below.
           </motion.p>
         </div>
 
